@@ -56,9 +56,6 @@ Download : https://github.com/puikinsh/adminpro
 Demo : https://colorlib.com/polygon/jeweler/index.html
 Download : https://github.com/puikinsh/jeweler
 
-Demo : http://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/index.html
-Download : https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template
-
 Demo : https://demos.creative-tim.com/bs3/paper-dashboard/dashboard.html
 Download : https://www.creative-tim.com/product/paper-dashboard
 
@@ -119,10 +116,34 @@ Demo : https://wrappixel.com/demos/free-admin-templates/elegant-admin-lite/html/
 Download : https://www.wrappixel.com/templates/elegant-admin-lite/
 
 Demo : https://www.wrappixel.com/demos/free-admin-templates/matrix-admin-bt4/html/ltr/index.html
-https://www.matrixadmin.wrappixel.com/
+Download : https://www.matrixadmin.wrappixel.com/
 
-http://elegantadmin.wrappixel.com/elegant-admin-package-full.zip
-https://www.pixeladmin.wrappixel.com/
+Demo : http://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/index.html
+Download : https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template
+
+Demo : http://www.bootstrapdash.com/demo/star-admin-vue/#/
+Download : https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template
+
+Demo : https://www.bootstrapdash.com/demo/star-admin-angular/dashboard
+Download : https://github.com/BootstrapDash/StarAdmin-Free-Angular-Admin-Template
+
+Demo : http://www.bootstrapdash.com/demo/star-admin-free/react/template/demo_1/preview/dashboard
+Download : https://github.com/BootstrapDash/StarAdmin-Free-React-Admin-Template
+
+Demo : https://www.bootstrapdash.com/demo/material-admin-free/jquery/template/demo/index.html
+Download : https://github.com/BootstrapDash/Material-Admin
+
+Demo : http://www.bootstrapdash.com/demo/purple-admin-free/
+Download : https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template
+
+Demo : https://bootstrapdash.com/demo/purple-angular-free/preview/dashboard
+Download : https://github.com/BootstrapDash/PurpleAdmin-Free-Angular-Admin-Template
+
+Demo : http://www.bootstrapdash.com/demo/stellar-admin-free/jquery/
+Download : https://github.com/BootstrapDash/Stellar
+
+Demo : http://www.bootstrapdash.com/demo/connect-plus-free/jquery/template/index.html
+Download : https://github.com/BootstrapDash/ConnectPlusAdmin-Free-Bootstrap-Admin-Template
 
 
 
