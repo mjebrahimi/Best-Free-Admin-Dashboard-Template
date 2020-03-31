@@ -1,8 +1,8 @@
 # Best Free Admin Dashboard Template
 
 
-Demo : https://colorlib.com/polygon/adminator/index.html
-Download : https://github.com/puikinsh/Adminator-admin-dashboard
+- Demo : https://colorlib.com/polygon/adminator/index.html
+- Download : https://github.com/puikinsh/Adminator-admin-dashboard
 
 Demo : https://dashboardpack.com/live-demo-free/?livedemo=329
 Download : https://github.com/DashboardPack/architectui-html-theme-free
@@ -128,9 +128,9 @@ https://www.pixeladmin.wrappixel.com/
 
 
 
-https://colorlib.com/wp/free-html5-admin-dashboard-templates/
-https://colorlib.com/wp/free-admin-templates/
-https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
-https://colorlib.com/wp/angularjs-admin-templates/
-https://colorlib.com/wp/html-admin-templates/
-https://colorlib.com/wp/bootstrap-admin-templates/
+- https://colorlib.com/wp/free-html5-admin-dashboard-templates/
+- https://colorlib.com/wp/free-admin-templates/
+- https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
+- https://colorlib.com/wp/angularjs-admin-templates/
+- https://colorlib.com/wp/html-admin-templates/
+- https://colorlib.com/wp/bootstrap-admin-templates/
