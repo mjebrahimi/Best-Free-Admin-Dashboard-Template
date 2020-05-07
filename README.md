@@ -145,8 +145,27 @@ Download : https://github.com/BootstrapDash/Stellar
 Demo : http://www.bootstrapdash.com/demo/connect-plus-free/jquery/template/index.html
 Download : https://github.com/BootstrapDash/ConnectPlusAdmin-Free-Bootstrap-Admin-Template
 
+Demo : https://preview-dev.tabler.io/
+Download : https://github.com/tabler/tabler
+https://github.com/tabler/tabler-react
+https://github.com/tabler/tabler-angular
+https://github.com/tabler/tabler-vue
+
+Demo : https://www.akveo.com/ngx-admin/pages/dashboard?theme=material-light
+Download : https://github.com/akveo/ngx-admin
+https://github.com/akveo/nebular
+
+Demo : http://rawgit.com/start-angular/SB-Admin-BS4-Angular-6/master/dist/
+Download : https://github.com/start-angular/SB-Admin-BS4-Angular-6
+
+Demo : https://start-javascript.github.io/sb-admin-material
+Download : https://github.com/start-javascript/sb-admin-material
+
+Demo : https://blackrockdigital.github.io/startbootstrap-sb-admin-2/
+Download : https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
 
 
+- https://www.mockplus.com/blog/post/dashboard-ui-kit-templates
 
 
 - https://colorlib.com/wp/free-html5-admin-dashboard-templates/
