@@ -92,10 +92,10 @@
   - **Demo** : https://coreui.io/vue/demo/3.0.1/#/dashboard
   - **Repository** : https://github.com/coreui/coreui-vue
 - ### Templates
-- https://github.com/coreui/coreui-free-angular-admin-template
-- https://github.com/coreui/coreui-free-bootstrap-admin-template
-- https://github.com/coreui/coreui-free-react-admin-template
-- https://github.com/coreui/coreui-free-vue-admin-template
+  - https://github.com/coreui/coreui-free-angular-admin-template
+  - https://github.com/coreui/coreui-free-bootstrap-admin-template
+  - https://github.com/coreui/coreui-free-react-admin-template
+  - https://github.com/coreui/coreui-free-vue-admin-template
 
 ## Ace
 - **Demo** : http://ace.jeka.by
@@ -181,28 +181,33 @@
 - ### Nebular
   - **Repository** : https://github.com/akveo/nebular
 
-## Others
-- **Demo** : http://www.themeineed.com/product-preview/?themeid=30520
-- **Download** : https://www.themeineed.com/downloads/klorofil-free-bootstrap-admin-template/
-
+## Lumino
 - **Demo** : https://medialoot.com/preview/frame/lumino.html
 - **Donwload** : https://medialoot.com/item/lumino-admin-bootstrap-template/
 
+## Ample Admin Lite
 - **Demo** : https://www.wrappixel.com/demos/admin-templates/ampleadmin/ample-admin-lite/dashboard.html
 - **Download** : https://wrappixel.com/templates/ample-admin-lite/
 
+## Xtreme Admin Lite
 - **Demo** : https://www.wrappixel.com/demos/free-admin-templates/xtreme-admin-lite/xtreme-html/ltr/
 - **Download** : https://www.wrappixel.com/templates/xtreme-admin-lite/
 
+## Pixel Admin Lite
 - **Demo** : https://www.wrappixel.com/demos/free-admin-templates/pixel-admin-lite/pixel-html/index.html
 - **Download** : https://www.wrappixel.com/templates/pixel-admin-lite/
 
+## Elegant Admin Lite
 - **Demo** : https://wrappixel.com/demos/free-admin-templates/elegant-admin-lite/html/index.html
 - **Download** : https://www.wrappixel.com/templates/elegant-admin-lite/
 
+## Matrix Admin
 - **Demo** : https://www.wrappixel.com/demos/free-admin-templates/matrix-admin-bt4/html/ltr/index.html
 - **Download** : https://www.matrixadmin.wrappixel.com/
 
+## klorofil
+- **Demo** : http://www.themeineed.com/product-preview/?themeid=30520
+- **Download** : https://www.themeineed.com/downloads/klorofil-free-bootstrap-admin-template/
 
 ## Resources
 - https://rahkarino.com/blog/programming/frontend/reactjs/free-react-dashboard-templates/
