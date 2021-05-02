@@ -1,5 +1,5 @@
 # Best Free Admin Dashboard Template (In Progress)
-
+    A collection of top popular free admin/dashbord template
 
 ## Adminator 
 - **Demo** : https://colorlib.com/polygon/adminator/index.html
